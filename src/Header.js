@@ -1,7 +1,6 @@
 import React from "react";
 
 const logoUrl ="https://videos.openai.com/vg-assets/assets%2Ftask_01jw0r9ndtemd9pbb4t7bqbn5d%2F1748077234_img_2.webp?st=2025-05-31T21%3A13%3A48Z&se=2025-06-06T22%3A13%3A48Z&sks=b&skt=2025-05-31T21%3A13%3A48Z&ske=2025-06-06T22%3A13%3A48Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=MMWYVhH6sClluaVEE5pAMYM1pFG3dQXBUHMjAon1Mu0%3D&az=oaivgprodscus";
-";
 
 export const Header = () => {
   return (
